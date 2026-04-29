@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Pinned dependency versions for reproducibility
 - Reviewed open issues, added labels
+
+## 2026-04-29
+- Cross-checked behaviour against spec
+- Pinned dependency versions for reproducibility
+- Verified API endpoint response schema
